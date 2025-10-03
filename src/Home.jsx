@@ -11,7 +11,7 @@ export default function Home() {
                 <Link to ="/projects"> My Projects</Link>
             </div>
 
-            <h1 className="missionStatement">Mission Statement</h1>
+            <h2 className="missionStatement">Mission Statement</h2>
             <h3>To always be inquisitive, and never stop learning.</h3>
         </>
     )
