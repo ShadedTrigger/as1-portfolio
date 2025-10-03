@@ -3,7 +3,7 @@ import { Link } from 'react-router-dom'
 export default function Layout() {
     return (
         <nav>
-            <img src="./src/assets/logo.png" alt="logo" className="logo" width={50}/>
+            <img src="./logo.png" alt="logo" className="logo" width={50}/>
             <p>Sean's Portfoilo</p>
             <div className="nav-links">
             <Link to ="/">Home</Link>
