@@ -9,19 +9,19 @@ export default function Projects() {
             <div className="gridItem">
                 <h2>Project 1: Bug Smasher Game</h2>
                 <Link to="/Project1">
-                    <img src="./public/project1.png" alt="Screenshot of my Bug Smasher Game" className="project1Image"/>
+                    <img src="./project1.png" alt="Screenshot of my Bug Smasher Game" className="project1Image"/>
                 </Link>
             </div>
             <div className="gridItem">
                 <h2>Project 2: Gravity Flux</h2>
                 <Link to="/Project2">
-                    <img src="./public/project2.png" alt="Screenshot of my Gravity Flux Game" className="project2Image"/>
+                    <img src="./project2.png" alt="Screenshot of my Gravity Flux Game" className="project2Image"/>
                 </Link>
             </div>
             <div className="gridItem">
                 <h2>Project 3: Website for Creperie</h2>
                 <Link to="/Project3">
-                    <img src="./public/project3.png" alt="Screenshot of Creperie Website" className="project3Image"/>
+                    <img src="./project3.png" alt="Screenshot of Creperie Website" className="project3Image"/>
                 </Link>
             </div>
         </div>
